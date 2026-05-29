@@ -3,7 +3,7 @@
   
   
   <div style="display: inline_block"><br/>
-    <h2>### Tecnologias que utilizo <h2>
+    <h2>Tecnologias que utilizo <h2>
     <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" align="center">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" align="center">
     <img alt="HTML:5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center">
