@@ -16,7 +16,7 @@
   <!--   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align="center"> -->
   </div>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoBdev&theme=react-dark&custom_title=Minha%20Atividade&hide_border=true&area=true)](https://github.com/ThiagoBdev/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoBdev&theme=react-dark&custom_title=Minha%20Atividade&hide_border=true&area=true&days=20)](https://github.com/ThiagoBdev/github-readme-activity-graph)
   
   
   ### Meus contatos
