@@ -4,11 +4,7 @@
 )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago159_bt/)
 
-<div>
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ThiagoBdev&show_icons=true&theme=tokyonight" />
 
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBdev&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
 ### Tecnologias que utilizo
 <div style="display: inline_block"><br/>
   <img alt="HTML:5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center">
@@ -21,3 +17,5 @@
   
 <!--   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align="center"> -->
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoBdev&theme=react-dark&custom_title=Minha%20Atividade&hide_border=true&area=true)](https://github.com/ThiagoBdev/github-readme-activity-graph)
